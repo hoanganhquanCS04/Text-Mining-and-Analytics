@@ -1,0 +1,13 @@
+selenium
+beautifulsoup4
+pandas
+underthesea
+emoji
+imbalanced-learn
+gradio
+matplotlib
+numpy
+seaborn
+joblib
+requests
+scikit-learn
